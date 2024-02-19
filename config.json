@@ -1,0 +1,29 @@
+{
+    "token":"",
+
+    "info": {
+        "roleId": "",
+        "logsId": ""
+    },
+
+    "embeds": {
+        "title": "Sistema de formulario",
+        "description": "Para realizar o formulario de inscrição, aperte o botão \"Formulario\" abaixo!",
+        "color": "#FF80ED"
+    },
+
+    "perguntas": {
+        "pergunta1": {
+            "title": "Qual seu nome?",
+            "placeholder": "Digite seu nome aqui"
+        },
+        "pergunta2": {
+            "title": "Qual sua idade?",
+            "placeholder": "Digite sua idade aqui"
+        },
+        "pergunta3": {
+            "title": "Como encontrou nosso servidor?",
+            "placeholder": "Digite aqui!"
+        }
+    }
+}
